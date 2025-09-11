@@ -1,4 +1,9 @@
-.idea/
-_site
-vendor/ruby
-.vscode
+# Ruby Gems
+*.gem
+
+# Design Files
+*.psd
+*.ai
+
+# IntelliJ
+.idea
